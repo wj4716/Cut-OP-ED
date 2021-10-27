@@ -1,1 +1,0 @@
-使用PowerShell和FFmpeg裁剪视频片头片尾。
